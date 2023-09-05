@@ -18,7 +18,7 @@ We used [hmmsearch](https://www.ebi.ac.uk/Tools/hmmer/search/hmmsearch) to searc
 -	873 significant hit regions ([FASTA](https://github.com/YuSugihara/NOI_domains/blob/main/10_hmmsearch_RefProt_Poaceae/A1583BAC-4B06-11EE-ABCE-5F13FAE0C6C4.1.fasta))
 -	Hit information table ([TXT](https://github.com/YuSugihara/NOI_domains/blob/main/10_hmmsearch_RefProt_Poaceae/A1583BAC-4B06-11EE-ABCE-5F13FAE0C6C4.1.tsv))
 
-We filtered out sequences having any missing residues or more than two NOI domains. Then, the [six validated rice NOI proteins](https://github.com/YuSugihara/NOI_domains/blob/main/10_hmmsearch_RefProt_Poaceae/rice_NOI_proteins.fasta) were added to the 607 retained sequences.
+We filtered out sequences having any missing residues or more than two NOI domains. The [six validated rice NOI proteins](https://github.com/YuSugihara/NOI_domains/blob/main/10_hmmsearch_RefProt_Poaceae/rice_NOI_proteins.fasta) were then added to the 607 retained sequences.
 
 - 613 NOI proteins for futher analysis ([FASTA](https://github.com/YuSugihara/NOI_domains/blob/main/10_hmmsearch_RefProt_Poaceae/Poaceae_NOIs.fasta))
 
