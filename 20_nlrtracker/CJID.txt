@@ -1,0 +1,13 @@
+#                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /LARGE0/gr10405/lhome/y.sugihara/nlrtracker/NLRtracker/module/abe3069_Data_S1.hmm
+# Target file:     nlrtracker_result/tmp.fasta
+# Option settings: hmmsearch --domtblout nlrtracker_result/CJID.txt /LARGE0/gr10405/lhome/y.sugihara/nlrtracker/NLRtracker/module/abe3069_Data_S1.hmm nlrtracker_result/tmp.fasta 
+# Current dir:     /LARGE0/gr10405/lhome/y.sugihara/collaboration/k.fujisaki/23_08_13_Pii_nlrtracker
+# Date:            Mon Sep  4 19:50:30 2023
+# [ok]

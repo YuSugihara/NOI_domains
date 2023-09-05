@@ -1,0 +1,373 @@
+A0A0D3GFF5_9ORYZ	fimo	sequence_motif	314	334	156	+	.	Name=P-loop;Signature=Motif 1;pvalue=2.52e-16;2.3e-11;sequence=CVVGMGGLGKTTLARKAYENK
+A0A0D3GFF5_9ORYZ	fimo	sequence_motif	552	580	216	+	.	Name=RNBS-D;Signature=Motif 2;pvalue=2.66e-22;3e-17;sequence=LKPCFLYLSIFPEDFEIQRGRLVDRWIAE
+A0A0D3GFF5_9ORYZ	fimo	sequence_motif	495	515	125	+	.	Name=GLPL;Signature=Motif 3;pvalue=3.3e-13;3.89e-08;sequence=CGYLPLAILTIGGILATKKIM
+A0A0D3GFF5_9ORYZ	fimo	sequence_motif	402	416	119	+	.	Name=Kin-2;Signature=Motif 4;pvalue=1.21e-12;1.47e-07;sequence=YFVVLDDLWTIDAWN
+A0A0D3GFF5_9ORYZ	fimo	sequence_motif	429	448	92.6	+	.	Name=RNBS-B;Signature=Motif 5;pvalue=5.47e-10;6.49e-05;sequence=RGSRIIITTRDAGLAGRCTS
+A0A0D3GFF5_9ORYZ	fimo	sequence_motif	339	367	145	+	.	Name=RNBS-A;Signature=Motif 6;pvalue=3.25e-15;3.67e-10;sequence=NFSCCAWITVSQSFDRKEILKQMIRQLLG
+A0A0D3GFF5_9ORYZ	fimo	sequence_motif	622	642	163	+	.	Name=MHD;Signature=Motif 7;pvalue=5.15e-17;6.08e-12;sequence=CRIHDIMRDIIVSISREENFV
+A0A0D3GFF5_9ORYZ	fimo	sequence_motif	591	611	147	+	.	Name=linker;Signature=Motif 8;pvalue=2.16e-15;2.55e-10;sequence=IEDVGNSHFNELINRSLIQPS
+A0A0D3GFF5_9ORYZ	fimo	sequence_motif	537	551	113	+	.	Name=NB-ARC motif 12;Signature=Motif 12;pvalue=5.54e-12;6.74e-07;sequence=MRRMVTLSYNHLPSH
+A0A0D3GFF5_9ORYZ	fimo	sequence_motif	197	213	99	+	.	Name=CC-EDVID;Signature=Motif 16;pvalue=1.24e-10;1.5e-05;sequence=DLSYNIEDCLDEFKVHV
+A0A0D3GFF5_9ORYZ	fimo	sequence_motif	138	173	188	+	.	Name=CC;Signature=Motif 17;pvalue=1.62e-19;1.76e-14;sequence=SAVGKAASAAADEATLLLGIQKEIWYIKDELKTIQA
+A0A0D3GFF5_9ORYZ	Gene3D	Gene3D	545	634	4.5E-19	+	.	Name=Winged helix-like DNA-binding domain superfamily;Signature=G3DSA:1.10.10.10;InterProScan=IPR036388;ID=match$320_545_634
+A0A0D3GFF5_9ORYZ	Pfam	Pfam	27	62	2.7E-21	+	.	Name=Cleavage site for pathogenic type III effector avirulence factor Avr;Signature=PF05627;InterProScan=IPR008700;ID=match$321_27_62
+A0A0D3GFF5_9ORYZ	Gene3D	Gene3D	135	243	4.9E-24	+	.	Name=Rx N-terminal domain;Signature=G3DSA:1.20.5.4130;InterProScan=Not integrated;ID=match$322_135_243
+A0A0D3GFF5_9ORYZ	Pfam	Pfam	135	220	6.7E-23	+	.	Name=Rx N-terminal domain;Signature=PF18052;InterProScan=IPR041118;ID=match$323_135_220
+A0A0D3GFF5_9ORYZ	Pfam	Pfam	306	546	9.8E-44	+	.	Name=NB-ARC domain;Signature=PF00931;InterProScan=IPR002182;ID=match$324_306_546
+A0A0D3GFF5_9ORYZ	PRINTS	PRINTS	312	327	2.7E-15	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$325_312_327
+A0A0D3GFF5_9ORYZ	PRINTS	PRINTS	396	410	2.7E-15	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$325_396_410
+A0A0D3GFF5_9ORYZ	PRINTS	PRINTS	849	865	2.7E-15	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$325_849_865
+A0A0D3GFF5_9ORYZ	PRINTS	PRINTS	495	509	2.7E-15	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$325_495_509
+A0A0D3GFF5_9ORYZ	CDD	CDD	152	247	2.3741E-27	+	.	Name=RX-CC_like;Signature=cd14798;InterProScan=IPR038005;ID=match$326_152_247
+A0A0D3GFF5_9ORYZ	SUPERFAMILY	SUPERFAMILY	623	1058	1.09E-38	+	.	Name=Leucine-rich repeat domain superfamily;Signature=SSF52058;InterProScan=Not integrated;ID=match$327_623_1058
+A0A0D3GFF5_9ORYZ	Gene3D	Gene3D	458	544	1.4E-9	+	.	Name=Apoptotic protease-activating factors, helical domain;Signature=G3DSA:1.10.8.430;InterProScan=IPR042197;ID=match$328_458_544
+A0A0D3GFF5_9ORYZ	Gene3D	Gene3D	273	452	3.0E-36	+	.	Name=P-loop containing nucleoside triphosphate hydrolase;Signature=G3DSA:3.40.50.300;InterProScan=IPR027417;ID=match$329_273_452
+A0A0D3GFF5_9ORYZ	SUPERFAMILY	SUPERFAMILY	269	559	5.49E-65	+	.	Name=P-loop containing nucleoside triphosphate hydrolase;Signature=SSF52540;InterProScan=IPR027417;ID=match$330_269_559
+A0A0D3GFF5_9ORYZ	Gene3D	Gene3D	645	799	7.1E-14	+	.	Name=Leucine-rich repeat domain superfamily;Signature=G3DSA:3.80.10.10;InterProScan=IPR032675;ID=match$331_645_799
+A0A0D3GFF5_9ORYZ	Gene3D	Gene3D	821	1093	6.3E-23	+	.	Name=Leucine-rich repeat domain superfamily;Signature=G3DSA:3.80.10.10;InterProScan=IPR032675;ID=match$331_821_1093
+A0A0D9XCJ7_9ORYZ	fimo	sequence_motif	299	319	150	+	.	Name=P-loop;Signature=Motif 1;pvalue=1.06e-15;2.3e-11;sequence=PIVGLAGLGKTALAKLIFHDQ
+A0A0D9XCJ7_9ORYZ	fimo	sequence_motif	528	556	147	+	.	Name=RNBS-D;Signature=Motif 2;pvalue=1.97e-15;2.03e-11;sequence=LKSCFAYLSTIPRGTIIDREKLIEQWIAL
+A0A0D9XCJ7_9ORYZ	fimo	sequence_motif	470	490	70.3	+	.	Name=GLPL;Signature=Motif 3;pvalue=9.36e-08;0.000737;sequence=CEGIPVVAYSLGSMVRNKDED
+A0A0D9XCJ7_9ORYZ	fimo	sequence_motif	324	352	68.3	+	.	Name=RNBS-A;Signature=Motif 6;pvalue=1.47e-07;0.00118;sequence=NFDQRIWVHLDRKLDLNKIANDIISQVNQ
+A0A0D9XCJ7_9ORYZ	fimo	sequence_motif	605	625	77.4	+	.	Name=MHD;Signature=Motif 7;pvalue=1.8e-08;0.000349;sequence=LRIHNLVHDFAMYVARDDLII
+A0A0D9XCJ7_9ORYZ	fimo	sequence_motif	436	450	79	+	.	Name=RNBS-C;Signature=Motif 10;pvalue=1.26e-08;0.000769;sequence=LSEADCWTIFCQRAF
+A0A0D9XCJ7_9ORYZ	Gene3D	Gene3D	119	222	8.7E-8	+	.	Name=Rx N-terminal domain;Signature=G3DSA:1.20.5.4130;InterProScan=Not integrated;ID=match$125_119_222
+A0A0D9XCJ7_9ORYZ	PRINTS	PRINTS	470	484	1.5E-10	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$126_470_484
+A0A0D9XCJ7_9ORYZ	PRINTS	PRINTS	799	815	1.5E-10	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$126_799_815
+A0A0D9XCJ7_9ORYZ	PRINTS	PRINTS	375	389	1.5E-10	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$126_375_389
+A0A0D9XCJ7_9ORYZ	PRINTS	PRINTS	297	312	1.5E-10	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$126_297_312
+A0A0D9XCJ7_9ORYZ	Pfam	Pfam	278	493	1.3E-30	+	.	Name=NB-ARC domain;Signature=PF00931;InterProScan=IPR002182;ID=match$129_278_493
+A0A0D9XCJ7_9ORYZ	Gene3D	Gene3D	259	427	7.2E-25	+	.	Name=P-loop containing nucleoside triphosphate hydrolase;Signature=G3DSA:3.40.50.300;InterProScan=IPR027417;ID=match$131_259_427
+A0A0D9XCJ7_9ORYZ	Gene3D	Gene3D	648	903	1.8E-54	+	.	Name=Leucine-rich repeat domain superfamily;Signature=G3DSA:3.80.10.10;InterProScan=IPR032675;ID=match$132_648_903
+A0A0D9XCJ7_9ORYZ	Pfam	Pfam	119	198	5.5E-9	+	.	Name=Rx N-terminal domain;Signature=PF18052;InterProScan=IPR041118;ID=match$133_119_198
+A0A0D9XCJ7_9ORYZ	SUPERFAMILY	SUPERFAMILY	660	902	6.98E-46	+	.	Name=RNI-like domain superfamily;Signature=SSF52047;InterProScan=Not integrated;ID=match$134_660_902
+A0A0D9XCJ7_9ORYZ	Gene3D	Gene3D	435	507	1.2E-7	+	.	Name=Apoptotic protease-activating factors, helical domain;Signature=G3DSA:1.10.8.430;InterProScan=IPR042197;ID=match$136_435_507
+A0A0D9XCJ7_9ORYZ	SUPERFAMILY	SUPERFAMILY	270	535	2.03E-48	+	.	Name=P-loop containing nucleoside triphosphate hydrolase;Signature=SSF52540;InterProScan=IPR027417;ID=match$137_270_535
+A0A0D9XCJ8_9ORYZ	fimo	sequence_motif	299	319	150	+	.	Name=P-loop;Signature=Motif 1;pvalue=1.06e-15;2.3e-11;sequence=PIVGLAGLGKTALAKLIFHDQ
+A0A0D9XCJ8_9ORYZ	fimo	sequence_motif	528	556	147	+	.	Name=RNBS-D;Signature=Motif 2;pvalue=1.97e-15;2.03e-11;sequence=LKSCFAYLSTIPRGTIIDREKLIEQWIAL
+A0A0D9XCJ8_9ORYZ	fimo	sequence_motif	470	490	70.3	+	.	Name=GLPL;Signature=Motif 3;pvalue=9.36e-08;0.000737;sequence=CEGIPVVAYSLGSMVRNKDED
+A0A0D9XCJ8_9ORYZ	fimo	sequence_motif	324	352	68.3	+	.	Name=RNBS-A;Signature=Motif 6;pvalue=1.47e-07;0.00118;sequence=NFDQRIWVHLDRKLDLNKIANDIISQVNQ
+A0A0D9XCJ8_9ORYZ	fimo	sequence_motif	605	625	77.4	+	.	Name=MHD;Signature=Motif 7;pvalue=1.8e-08;0.000349;sequence=LRIHNLVHDFAMYVARDDLII
+A0A0D9XCJ8_9ORYZ	fimo	sequence_motif	436	450	79	+	.	Name=RNBS-C;Signature=Motif 10;pvalue=1.26e-08;0.000769;sequence=LSEADCWTIFCQRAF
+A0A0D9XCJ8_9ORYZ	Pfam	Pfam	278	493	1.2E-30	+	.	Name=NB-ARC domain;Signature=PF00931;InterProScan=IPR002182;ID=match$50_278_493
+A0A0D9XCJ8_9ORYZ	Gene3D	Gene3D	259	427	7.0E-25	+	.	Name=P-loop containing nucleoside triphosphate hydrolase;Signature=G3DSA:3.40.50.300;InterProScan=IPR027417;ID=match$51_259_427
+A0A0D9XCJ8_9ORYZ	PRINTS	PRINTS	470	484	1.4E-10	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$52_470_484
+A0A0D9XCJ8_9ORYZ	PRINTS	PRINTS	297	312	1.4E-10	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$52_297_312
+A0A0D9XCJ8_9ORYZ	PRINTS	PRINTS	375	389	1.4E-10	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$52_375_389
+A0A0D9XCJ8_9ORYZ	PRINTS	PRINTS	799	815	1.4E-10	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$52_799_815
+A0A0D9XCJ8_9ORYZ	Gene3D	Gene3D	435	507	1.1E-7	+	.	Name=Apoptotic protease-activating factors, helical domain;Signature=G3DSA:1.10.8.430;InterProScan=IPR042197;ID=match$54_435_507
+A0A0D9XCJ8_9ORYZ	SUPERFAMILY	SUPERFAMILY	660	902	6.83E-46	+	.	Name=RNI-like domain superfamily;Signature=SSF52047;InterProScan=Not integrated;ID=match$56_660_902
+A0A0D9XCJ8_9ORYZ	Gene3D	Gene3D	119	222	8.6E-8	+	.	Name=Rx N-terminal domain;Signature=G3DSA:1.20.5.4130;InterProScan=Not integrated;ID=match$57_119_222
+A0A0D9XCJ8_9ORYZ	Gene3D	Gene3D	648	903	1.7E-54	+	.	Name=Leucine-rich repeat domain superfamily;Signature=G3DSA:3.80.10.10;InterProScan=IPR032675;ID=match$59_648_903
+A0A0D9XCJ8_9ORYZ	Pfam	Pfam	119	198	5.4E-9	+	.	Name=Rx N-terminal domain;Signature=PF18052;InterProScan=IPR041118;ID=match$60_119_198
+A0A0D9XCJ8_9ORYZ	SUPERFAMILY	SUPERFAMILY	270	535	1.95E-48	+	.	Name=P-loop containing nucleoside triphosphate hydrolase;Signature=SSF52540;InterProScan=IPR027417;ID=match$61_270_535
+A0A0E0IZU7_ORYNI	fimo	sequence_motif	174	194	129	+	.	Name=P-loop;Signature=Motif 1;pvalue=1.24e-13;1.04e-09;sequence=SILGCAGVGKTALAKQVFCEL
+A0A0E0IZU7_ORYNI	fimo	sequence_motif	403	431	106	+	.	Name=RNBS-D;Signature=Motif 2;pvalue=2.39e-11;1.5e-07;sequence=LKTCLQYLTMYPEGCIIWKADLVKQWTAE
+A0A0E0IZU7_ORYNI	fimo	sequence_motif	343	363	79.5	+	.	Name=GLPL;Signature=Motif 3;pvalue=1.12e-08;0.00011;sequence=CGGLPLGIINIARLLASEVDN
+A0A0E0IZU7_ORYNI	fimo	sequence_motif	252	266	110	+	.	Name=Kin-2;Signature=Motif 4;pvalue=8.97e-12;3.64e-07;sequence=YFIVIDDLWETTSWD
+A0A0E0IZU7_ORYNI	fimo	sequence_motif	277	296	69.6	+	.	Name=RNBS-B;Signature=Motif 5;pvalue=1.09e-07;0.00143;sequence=DCSRILMTTTIEDVALECCD
+A0A0E0IZU7_ORYNI	fimo	sequence_motif	197	225	110	+	.	Name=RNBS-A;Signature=Motif 6;pvalue=1.09e-11;1.77e-07;sequence=RFECRAFVQVSRMPDTKRLLRSMLSQFRR
+A0A0E0IZU7_ORYNI	fimo	sequence_motif	442	462	68.2	+	.	Name=linker;Signature=Motif 8;pvalue=1.5e-07;0.00147;sequence=ANAVADSYFDELVSRGMMQPN
+A0A0E0IZU7_ORYNI	fimo	sequence_motif	308	322	72.3	+	.	Name=RNBS-C;Signature=Motif 10;pvalue=5.92e-08;0.0024;sequence=LSRDDSLNLFLNSAF
+A0A0E0IZU7_ORYNI	CDD	CDD	12	86	4.3858E-11	+	.	Name=RX-CC_like;Signature=cd14798;InterProScan=IPR038005;ID=match$453_12_86
+A0A0E0IZU7_ORYNI	Pfam	Pfam	156	396	3.1E-45	+	.	Name=NB-ARC domain;Signature=PF00931;InterProScan=IPR002182;ID=match$454_156_396
+A0A0E0IZU7_ORYNI	SUPERFAMILY	SUPERFAMILY	130	410	1.09E-50	+	.	Name=P-loop containing nucleoside triphosphate hydrolase;Signature=SSF52540;InterProScan=IPR027417;ID=match$455_130_410
+A0A0E0IZU7_ORYNI	SUPERFAMILY	SUPERFAMILY	476	857	2.04E-25	+	.	Name=Leucine-rich repeat domain superfamily;Signature=SSF52058;InterProScan=Not integrated;ID=match$456_476_857
+A0A0E0IZU7_ORYNI	Gene3D	Gene3D	307	395	7.8E-12	+	.	Name=Apoptotic protease-activating factors, helical domain;Signature=G3DSA:1.10.8.430;InterProScan=IPR042197;ID=match$457_307_395
+A0A0E0IZU7_ORYNI	Pfam	Pfam	1005	1037	2.5E-13	+	.	Name=Cleavage site for pathogenic type III effector avirulence factor Avr;Signature=PF05627;InterProScan=IPR008700;ID=match$458_1005_1037
+A0A0E0IZU7_ORYNI	PRINTS	PRINTS	643	659	8.4E-14	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$459_643_659
+A0A0E0IZU7_ORYNI	PRINTS	PRINTS	246	260	8.4E-14	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$459_246_260
+A0A0E0IZU7_ORYNI	PRINTS	PRINTS	343	357	8.4E-14	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$459_343_357
+A0A0E0IZU7_ORYNI	PRINTS	PRINTS	172	187	8.4E-14	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$459_172_187
+A0A0E0IZU7_ORYNI	Pfam	Pfam	13	89	1.7E-14	+	.	Name=Rx N-terminal domain;Signature=PF18052;InterProScan=IPR041118;ID=match$460_13_89
+A0A0E0IZU7_ORYNI	Gene3D	Gene3D	499	660	1.7E-11	+	.	Name=Leucine-rich repeat domain superfamily;Signature=G3DSA:3.80.10.10;InterProScan=IPR032675;ID=match$461_499_660
+A0A0E0IZU7_ORYNI	Gene3D	Gene3D	662	858	1.4E-10	+	.	Name=Leucine-rich repeat domain superfamily;Signature=G3DSA:3.80.10.10;InterProScan=IPR032675;ID=match$461_662_858
+A0A0E0IZU7_ORYNI	Gene3D	Gene3D	12	123	1.7E-17	+	.	Name=Rx N-terminal domain;Signature=G3DSA:1.20.5.4130;InterProScan=Not integrated;ID=match$462_12_123
+A0A0E0IZU7_ORYNI	Gene3D	Gene3D	134	299	1.6E-26	+	.	Name=P-loop containing nucleoside triphosphate hydrolase;Signature=G3DSA:3.40.50.300;InterProScan=IPR027417;ID=match$463_134_299
+A0A0E0IZU7_ORYNI	Gene3D	Gene3D	396	487	1.2E-7	+	.	Name=Winged helix-like DNA-binding domain superfamily;Signature=G3DSA:1.10.10.10;InterProScan=IPR036388;ID=match$464_396_487
+A0A0E0LZX0_ORYPU	fimo	sequence_motif	145	165	128	+	.	Name=P-loop;Signature=Motif 1;pvalue=1.43e-13;1.13e-09;sequence=PIVGLAGLGKTAVAKLIFHDQ
+A0A0E0LZX0_ORYPU	fimo	sequence_motif	374	402	150	+	.	Name=RNBS-D;Signature=Motif 2;pvalue=1.04e-15;1.67e-11;sequence=LKSCFAYLSTIPKRTIIDREKLIEQWIAL
+A0A0E0LZX0_ORYPU	fimo	sequence_motif	316	336	83.6	+	.	Name=GLPL;Signature=Motif 3;pvalue=4.33e-09;5.24e-05;sequence=CEGIPAVAYSLGSLLRNKNEE
+A0A0E0LZX0_ORYPU	fimo	sequence_motif	170	198	65.7	+	.	Name=RNBS-A;Signature=Motif 6;pvalue=2.71e-07;0.00204;sequence=NFDQRIWVHLDRKLDLNKIANSIISQVNQ
+A0A0E0LZX0_ORYPU	fimo	sequence_motif	451	471	77.4	+	.	Name=MHD;Signature=Motif 7;pvalue=1.8e-08;0.000349;sequence=LRIHNLVHDFAMYVARDDLII
+A0A0E0LZX0_ORYPU	Gene3D	Gene3D	498	748	5.6E-53	+	.	Name=Leucine-rich repeat domain superfamily;Signature=G3DSA:3.80.10.10;InterProScan=IPR032675;ID=match$428_498_748
+A0A0E0LZX0_ORYPU	SUPERFAMILY	SUPERFAMILY	505	748	3.92E-46	+	.	Name=RNI-like domain superfamily;Signature=SSF52047;InterProScan=Not integrated;ID=match$429_505_748
+A0A0E0LZX0_ORYPU	PRINTS	PRINTS	316	330	2.0E-12	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$431_316_330
+A0A0E0LZX0_ORYPU	PRINTS	PRINTS	143	158	2.0E-12	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$431_143_158
+A0A0E0LZX0_ORYPU	PRINTS	PRINTS	221	235	2.0E-12	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$431_221_235
+A0A0E0LZX0_ORYPU	PRINTS	PRINTS	645	661	2.0E-12	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$431_645_661
+A0A0E0LZX0_ORYPU	SUPERFAMILY	SUPERFAMILY	115	381	2.77E-48	+	.	Name=P-loop containing nucleoside triphosphate hydrolase;Signature=SSF52540;InterProScan=IPR027417;ID=match$432_115_381
+A0A0E0LZX0_ORYPU	Pfam	Pfam	5	88	4.5E-11	+	.	Name=Rx N-terminal domain;Signature=PF18052;InterProScan=IPR041118;ID=match$434_5_88
+A0A0E0LZX0_ORYPU	Pfam	Pfam	123	341	2.6E-31	+	.	Name=NB-ARC domain;Signature=PF00931;InterProScan=IPR002182;ID=match$435_123_341
+A0A0E0LZX0_ORYPU	Gene3D	Gene3D	282	347	1.8E-7	+	.	Name=Apoptotic protease-activating factors, helical domain;Signature=G3DSA:1.10.8.430;InterProScan=IPR042197;ID=match$437_282_347
+A0A0E0LZX0_ORYPU	Gene3D	Gene3D	363	463	9.5E-6	+	.	Name=Winged helix-like DNA-binding domain superfamily;Signature=G3DSA:1.10.10.10;InterProScan=IPR036388;ID=match$439_363_463
+A0A0E0LZX0_ORYPU	Gene3D	Gene3D	6	106	1.9E-8	+	.	Name=Rx N-terminal domain;Signature=G3DSA:1.20.5.4130;InterProScan=Not integrated;ID=match$440_6_106
+A0A0E0LZX0_ORYPU	Gene3D	Gene3D	107	273	6.6E-25	+	.	Name=P-loop containing nucleoside triphosphate hydrolase;Signature=G3DSA:3.40.50.300;InterProScan=IPR027417;ID=match$441_107_273
+A0A287XZS2_HORVV	fimo	sequence_motif	109	137	149	+	.	Name=RNBS-D;Signature=Motif 2;pvalue=1.33e-15;1.67e-11;sequence=LKTCLLYLSTYPEGCLFLKGDLVKQWVAE
+A0A287XZS2_HORVV	fimo	sequence_motif	53	73	83.5	+	.	Name=GLPL;Signature=Motif 3;pvalue=4.44e-09;5.24e-05;sequence=CGGLPLAIIVAASLLTIQPDK
+A0A287XZS2_HORVV	fimo	sequence_motif	179	199	73.8	+	.	Name=MHD;Signature=Motif 7;pvalue=4.14e-08;0.000349;sequence=YSVHHMVLDLITYKSIEENFI
+A0A287XZS2_HORVV	fimo	sequence_motif	148	168	74.1	+	.	Name=linker;Signature=Motif 8;pvalue=3.86e-08;0.000414;sequence=MEEVAGSYFGKLVSAGLIQAM
+A0A287XZS2_HORVV	fimo	sequence_motif	21	35	63	+	.	Name=RNBS-C;Signature=Motif 10;pvalue=5.05e-07;0.00615;sequence=LGEDDSEKLLLQRIL
+A0A287XZS2_HORVV	SUPERFAMILY	SUPERFAMILY	181	551	1.19E-21	+	.	Name=Leucine-rich repeat domain superfamily;Signature=SSF52058;InterProScan=Not integrated;ID=match$685_181_551
+A0A287XZS2_HORVV	Gene3D	Gene3D	201	570	2.2E-20	+	.	Name=Leucine-rich repeat domain superfamily;Signature=G3DSA:3.80.10.10;InterProScan=IPR032675;ID=match$686_201_570
+A0A287XZS2_HORVV	SUPERFAMILY	SUPERFAMILY	13	116	1.35E-9	+	.	Name=P-loop containing nucleoside triphosphate hydrolase;Signature=SSF52540;InterProScan=IPR027417;ID=match$687_13_116
+A0A287XZS2_HORVV	Pfam	Pfam	859	892	2.1E-15	+	.	Name=Cleavage site for pathogenic type III effector avirulence factor Avr;Signature=PF05627;InterProScan=IPR008700;ID=match$688_859_892
+A0A287XZS2_HORVV	Gene3D	Gene3D	96	193	2.0E-8	+	.	Name=Winged helix-like DNA-binding domain superfamily;Signature=G3DSA:1.10.10.10;InterProScan=IPR036388;ID=match$689_96_193
+A0A287XZT2_HORVV	fimo	sequence_motif	197	217	147	+	.	Name=P-loop;Signature=Motif 1;pvalue=1.99e-15;2.3e-11;sequence=PIVGVGGIGKTTLAQKLWSKL
+A0A287XZT2_HORVV	fimo	sequence_motif	417	445	149	+	.	Name=RNBS-D;Signature=Motif 2;pvalue=1.33e-15;1.67e-11;sequence=LKTCLLYLSTYPEGCLFLKGDLVKQWVAE
+A0A287XZT2_HORVV	fimo	sequence_motif	361	381	83.5	+	.	Name=GLPL;Signature=Motif 3;pvalue=4.44e-09;5.24e-05;sequence=CGGLPLAIIVAASLLTIQPDK
+A0A287XZT2_HORVV	fimo	sequence_motif	273	287	86.4	+	.	Name=Kin-2;Signature=Motif 4;pvalue=2.28e-09;2.77e-05;sequence=YFIIIDDLWAISLWD
+A0A287XZT2_HORVV	fimo	sequence_motif	298	317	79.2	+	.	Name=RNBS-B;Signature=Motif 5;pvalue=1.21e-08;0.000179;sequence=CGSRIVTITETMEVALACCG
+A0A287XZT2_HORVV	fimo	sequence_motif	220	248	110	+	.	Name=RNBS-A;Signature=Motif 6;pvalue=1.05e-11;1.77e-07;sequence=QFECRAFVRTAQKPDMRGIIRSILSQARP
+A0A287XZT2_HORVV	fimo	sequence_motif	487	507	73.8	+	.	Name=MHD;Signature=Motif 7;pvalue=4.14e-08;0.000349;sequence=YSVHHMVLDLITYKSIEENFI
+A0A287XZT2_HORVV	fimo	sequence_motif	456	476	74.1	+	.	Name=linker;Signature=Motif 8;pvalue=3.86e-08;0.000414;sequence=MEEVAGSYFGKLVSAGLIQAM
+A0A287XZT2_HORVV	fimo	sequence_motif	329	343	63	+	.	Name=RNBS-C;Signature=Motif 10;pvalue=5.05e-07;0.00615;sequence=LGEDDSEKLLLQRIL
+A0A287XZT2_HORVV	Gene3D	Gene3D	509	878	4.1E-20	+	.	Name=Leucine-rich repeat domain superfamily;Signature=G3DSA:3.80.10.10;InterProScan=IPR032675;ID=match$414_509_878
+A0A287XZT2_HORVV	CDD	CDD	9	139	5.89739E-13	+	.	Name=RX-CC_like;Signature=cd14798;InterProScan=IPR038005;ID=match$415_9_139
+A0A287XZT2_HORVV	Pfam	Pfam	12	96	4.6E-14	+	.	Name=Rx N-terminal domain;Signature=PF18052;InterProScan=IPR041118;ID=match$416_12_96
+A0A287XZT2_HORVV	Pfam	Pfam	1169	1202	2.9E-15	+	.	Name=Cleavage site for pathogenic type III effector avirulence factor Avr;Signature=PF05627;InterProScan=IPR008700;ID=match$417_1169_1202
+A0A287XZT2_HORVV	Gene3D	Gene3D	11	124	6.8E-16	+	.	Name=Rx N-terminal domain;Signature=G3DSA:1.20.5.4130;InterProScan=Not integrated;ID=match$418_11_124
+A0A287XZT2_HORVV	Gene3D	Gene3D	161	317	1.6E-27	+	.	Name=P-loop containing nucleoside triphosphate hydrolase;Signature=G3DSA:3.40.50.300;InterProScan=IPR027417;ID=match$419_161_317
+A0A287XZT2_HORVV	SUPERFAMILY	SUPERFAMILY	489	859	2.21E-21	+	.	Name=Leucine-rich repeat domain superfamily;Signature=SSF52058;InterProScan=Not integrated;ID=match$420_489_859
+A0A287XZT2_HORVV	Pfam	Pfam	177	417	9.0E-31	+	.	Name=NB-ARC domain;Signature=PF00931;InterProScan=IPR002182;ID=match$421_177_417
+A0A287XZT2_HORVV	PRINTS	PRINTS	361	375	1.6E-15	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$422_361_375
+A0A287XZT2_HORVV	PRINTS	PRINTS	267	281	1.6E-15	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$422_267_281
+A0A287XZT2_HORVV	PRINTS	PRINTS	195	210	1.6E-15	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$422_195_210
+A0A287XZT2_HORVV	PRINTS	PRINTS	681	697	1.6E-15	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$422_681_697
+A0A287XZT2_HORVV	Gene3D	Gene3D	404	501	2.9E-8	+	.	Name=Winged helix-like DNA-binding domain superfamily;Signature=G3DSA:1.10.10.10;InterProScan=IPR036388;ID=match$423_404_501
+A0A287XZT2_HORVV	SUPERFAMILY	SUPERFAMILY	163	424	1.49E-46	+	.	Name=P-loop containing nucleoside triphosphate hydrolase;Signature=SSF52540;InterProScan=IPR027417;ID=match$424_163_424
+A0A287XZY9_HORVV	fimo	sequence_motif	103	123	147	+	.	Name=P-loop;Signature=Motif 1;pvalue=1.99e-15;2.3e-11;sequence=PIVGVGGIGKTTLAQKLWSKL
+A0A287XZY9_HORVV	fimo	sequence_motif	323	351	149	+	.	Name=RNBS-D;Signature=Motif 2;pvalue=1.33e-15;1.67e-11;sequence=LKTCLLYLSTYPEGCLFLKGDLVKQWVAE
+A0A287XZY9_HORVV	fimo	sequence_motif	267	287	83.5	+	.	Name=GLPL;Signature=Motif 3;pvalue=4.44e-09;5.24e-05;sequence=CGGLPLAIIVAASLLTIQPDK
+A0A287XZY9_HORVV	fimo	sequence_motif	179	193	86.4	+	.	Name=Kin-2;Signature=Motif 4;pvalue=2.28e-09;2.77e-05;sequence=YFIIIDDLWAISLWD
+A0A287XZY9_HORVV	fimo	sequence_motif	204	223	79.2	+	.	Name=RNBS-B;Signature=Motif 5;pvalue=1.21e-08;0.000179;sequence=CGSRIVTITETMEVALACCG
+A0A287XZY9_HORVV	fimo	sequence_motif	126	154	110	+	.	Name=RNBS-A;Signature=Motif 6;pvalue=1.05e-11;1.77e-07;sequence=QFECRAFVRTAQKPDMRGIIRSILSQARP
+A0A287XZY9_HORVV	fimo	sequence_motif	393	413	73.8	+	.	Name=MHD;Signature=Motif 7;pvalue=4.14e-08;0.000349;sequence=YSVHHMVLDLITYKSIEENFI
+A0A287XZY9_HORVV	fimo	sequence_motif	362	382	74.1	+	.	Name=linker;Signature=Motif 8;pvalue=3.86e-08;0.000414;sequence=MEEVAGSYFGKLVSAGLIQAM
+A0A287XZY9_HORVV	fimo	sequence_motif	235	249	63	+	.	Name=RNBS-C;Signature=Motif 10;pvalue=5.05e-07;0.00615;sequence=LGEDDSEKLLLQRIL
+A0A287XZY9_HORVV	Gene3D	Gene3D	310	407	2.6E-8	+	.	Name=Winged helix-like DNA-binding domain superfamily;Signature=G3DSA:1.10.10.10;InterProScan=IPR036388;ID=match$146_310_407
+A0A287XZY9_HORVV	Gene3D	Gene3D	415	784	3.5E-20	+	.	Name=Leucine-rich repeat domain superfamily;Signature=G3DSA:3.80.10.10;InterProScan=IPR032675;ID=match$147_415_784
+A0A287XZY9_HORVV	SUPERFAMILY	SUPERFAMILY	69	330	1.31E-46	+	.	Name=P-loop containing nucleoside triphosphate hydrolase;Signature=SSF52540;InterProScan=IPR027417;ID=match$148_69_330
+A0A287XZY9_HORVV	PRINTS	PRINTS	101	116	1.2E-15	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$149_101_116
+A0A287XZY9_HORVV	PRINTS	PRINTS	587	603	1.2E-15	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$149_587_603
+A0A287XZY9_HORVV	PRINTS	PRINTS	173	187	1.2E-15	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$149_173_187
+A0A287XZY9_HORVV	PRINTS	PRINTS	267	281	1.2E-15	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$149_267_281
+A0A287XZY9_HORVV	SUPERFAMILY	SUPERFAMILY	395	765	1.87E-21	+	.	Name=Leucine-rich repeat domain superfamily;Signature=SSF52058;InterProScan=Not integrated;ID=match$150_395_765
+A0A287XZY9_HORVV	Pfam	Pfam	1076	1109	2.7E-15	+	.	Name=Cleavage site for pathogenic type III effector avirulence factor Avr;Signature=PF05627;InterProScan=IPR008700;ID=match$151_1076_1109
+A0A287XZY9_HORVV	Gene3D	Gene3D	67	223	1.4E-27	+	.	Name=P-loop containing nucleoside triphosphate hydrolase;Signature=G3DSA:3.40.50.300;InterProScan=IPR027417;ID=match$152_67_223
+A0A287XZY9_HORVV	Pfam	Pfam	83	323	7.9E-31	+	.	Name=NB-ARC domain;Signature=PF00931;InterProScan=IPR002182;ID=match$153_83_323
+A0A287Y020_HORVV	fimo	sequence_motif	244	264	147	+	.	Name=P-loop;Signature=Motif 1;pvalue=1.99e-15;2.3e-11;sequence=PIVGVGGIGKTTLAQKLWSKL
+A0A287Y020_HORVV	fimo	sequence_motif	464	492	149	+	.	Name=RNBS-D;Signature=Motif 2;pvalue=1.33e-15;1.67e-11;sequence=LKTCLLYLSTYPEGCLFLKGDLVKQWVAE
+A0A287Y020_HORVV	fimo	sequence_motif	408	428	83.5	+	.	Name=GLPL;Signature=Motif 3;pvalue=4.44e-09;5.24e-05;sequence=CGGLPLAIIVAASLLTIQPDK
+A0A287Y020_HORVV	fimo	sequence_motif	320	334	86.4	+	.	Name=Kin-2;Signature=Motif 4;pvalue=2.28e-09;2.77e-05;sequence=YFIIIDDLWAISLWD
+A0A287Y020_HORVV	fimo	sequence_motif	345	364	79.2	+	.	Name=RNBS-B;Signature=Motif 5;pvalue=1.21e-08;0.000179;sequence=CGSRIVTITETMEVALACCG
+A0A287Y020_HORVV	fimo	sequence_motif	267	295	110	+	.	Name=RNBS-A;Signature=Motif 6;pvalue=1.05e-11;1.77e-07;sequence=QFECRAFVRTAQKPDMRGIIRSILSQARP
+A0A287Y020_HORVV	fimo	sequence_motif	534	554	73.8	+	.	Name=MHD;Signature=Motif 7;pvalue=4.14e-08;0.000349;sequence=YSVHHMVLDLITYKSIEENFI
+A0A287Y020_HORVV	fimo	sequence_motif	503	523	74.1	+	.	Name=linker;Signature=Motif 8;pvalue=3.86e-08;0.000414;sequence=MEEVAGSYFGKLVSAGLIQAM
+A0A287Y020_HORVV	fimo	sequence_motif	376	390	63	+	.	Name=RNBS-C;Signature=Motif 10;pvalue=5.05e-07;0.00615;sequence=LGEDDSEKLLLQRIL
+A0A287Y020_HORVV	Pfam	Pfam	224	464	9.6E-31	+	.	Name=NB-ARC domain;Signature=PF00931;InterProScan=IPR002182;ID=match$207_224_464
+A0A287Y020_HORVV	Gene3D	Gene3D	451	548	3.0E-8	+	.	Name=Winged helix-like DNA-binding domain superfamily;Signature=G3DSA:1.10.10.10;InterProScan=IPR036388;ID=match$208_451_548
+A0A287Y020_HORVV	PRINTS	PRINTS	242	257	1.9E-15	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$209_242_257
+A0A287Y020_HORVV	PRINTS	PRINTS	728	744	1.9E-15	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$209_728_744
+A0A287Y020_HORVV	PRINTS	PRINTS	314	328	1.9E-15	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$209_314_328
+A0A287Y020_HORVV	PRINTS	PRINTS	408	422	1.9E-15	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$209_408_422
+A0A287Y020_HORVV	CDD	CDD	56	186	5.0558E-13	+	.	Name=RX-CC_like;Signature=cd14798;InterProScan=IPR038005;ID=match$210_56_186
+A0A287Y020_HORVV	Pfam	Pfam	1216	1249	3.0E-15	+	.	Name=Cleavage site for pathogenic type III effector avirulence factor Avr;Signature=PF05627;InterProScan=IPR008700;ID=match$211_1216_1249
+A0A287Y020_HORVV	Gene3D	Gene3D	208	364	1.7E-27	+	.	Name=P-loop containing nucleoside triphosphate hydrolase;Signature=G3DSA:3.40.50.300;InterProScan=IPR027417;ID=match$212_208_364
+A0A287Y020_HORVV	Gene3D	Gene3D	58	171	7.2E-16	+	.	Name=Rx N-terminal domain;Signature=G3DSA:1.20.5.4130;InterProScan=Not integrated;ID=match$213_58_171
+A0A287Y020_HORVV	SUPERFAMILY	SUPERFAMILY	536	906	2.38E-21	+	.	Name=Leucine-rich repeat domain superfamily;Signature=SSF52058;InterProScan=Not integrated;ID=match$214_536_906
+A0A287Y020_HORVV	SUPERFAMILY	SUPERFAMILY	210	471	1.58E-46	+	.	Name=P-loop containing nucleoside triphosphate hydrolase;Signature=SSF52540;InterProScan=IPR027417;ID=match$215_210_471
+A0A287Y020_HORVV	Pfam	Pfam	59	143	4.8E-14	+	.	Name=Rx N-terminal domain;Signature=PF18052;InterProScan=IPR041118;ID=match$216_59_143
+A0A287Y020_HORVV	Gene3D	Gene3D	556	925	4.4E-20	+	.	Name=Leucine-rich repeat domain superfamily;Signature=G3DSA:3.80.10.10;InterProScan=IPR032675;ID=match$217_556_925
+A0A287Y046_HORVV	fimo	sequence_motif	153	173	147	+	.	Name=P-loop;Signature=Motif 1;pvalue=1.99e-15;2.3e-11;sequence=PIVGVGGIGKTTLAQKLWSKL
+A0A287Y046_HORVV	fimo	sequence_motif	373	401	149	+	.	Name=RNBS-D;Signature=Motif 2;pvalue=1.33e-15;1.67e-11;sequence=LKTCLLYLSTYPEGCLFLKGDLVKQWVAE
+A0A287Y046_HORVV	fimo	sequence_motif	317	337	83.5	+	.	Name=GLPL;Signature=Motif 3;pvalue=4.44e-09;5.24e-05;sequence=CGGLPLAIIVAASLLTIQPDK
+A0A287Y046_HORVV	fimo	sequence_motif	229	243	86.4	+	.	Name=Kin-2;Signature=Motif 4;pvalue=2.28e-09;2.77e-05;sequence=YFIIIDDLWAISLWD
+A0A287Y046_HORVV	fimo	sequence_motif	254	273	79.2	+	.	Name=RNBS-B;Signature=Motif 5;pvalue=1.21e-08;0.000179;sequence=CGSRIVTITETMEVALACCG
+A0A287Y046_HORVV	fimo	sequence_motif	176	204	110	+	.	Name=RNBS-A;Signature=Motif 6;pvalue=1.05e-11;1.77e-07;sequence=QFECRAFVRTAQKPDMRGIIRSILSQARP
+A0A287Y046_HORVV	fimo	sequence_motif	443	463	73.8	+	.	Name=MHD;Signature=Motif 7;pvalue=4.14e-08;0.000349;sequence=YSVHHMVLDLITYKSIEENFI
+A0A287Y046_HORVV	fimo	sequence_motif	412	432	74.1	+	.	Name=linker;Signature=Motif 8;pvalue=3.86e-08;0.000414;sequence=MEEVAGSYFGKLVSAGLIQAM
+A0A287Y046_HORVV	fimo	sequence_motif	285	299	63	+	.	Name=RNBS-C;Signature=Motif 10;pvalue=5.05e-07;0.00615;sequence=LGEDDSEKLLLQRIL
+A0A287Y046_HORVV	Gene3D	Gene3D	465	834	3.8E-20	+	.	Name=Leucine-rich repeat domain superfamily;Signature=G3DSA:3.80.10.10;InterProScan=IPR032675;ID=match$361_465_834
+A0A287Y046_HORVV	Pfam	Pfam	1124	1157	2.8E-15	+	.	Name=Cleavage site for pathogenic type III effector avirulence factor Avr;Signature=PF05627;InterProScan=IPR008700;ID=match$362_1124_1157
+A0A287Y046_HORVV	Gene3D	Gene3D	1	80	5.9E-8	+	.	Name=Rx N-terminal domain;Signature=G3DSA:1.20.5.4130;InterProScan=Not integrated;ID=match$363_1_80
+A0A287Y046_HORVV	SUPERFAMILY	SUPERFAMILY	445	815	2.04E-21	+	.	Name=Leucine-rich repeat domain superfamily;Signature=SSF52058;InterProScan=Not integrated;ID=match$364_445_815
+A0A287Y046_HORVV	Pfam	Pfam	133	373	8.5E-31	+	.	Name=NB-ARC domain;Signature=PF00931;InterProScan=IPR002182;ID=match$365_133_373
+A0A287Y046_HORVV	SUPERFAMILY	SUPERFAMILY	119	380	1.41E-46	+	.	Name=P-loop containing nucleoside triphosphate hydrolase;Signature=SSF52540;InterProScan=IPR027417;ID=match$366_119_380
+A0A287Y046_HORVV	Gene3D	Gene3D	117	273	1.5E-27	+	.	Name=P-loop containing nucleoside triphosphate hydrolase;Signature=G3DSA:3.40.50.300;InterProScan=IPR027417;ID=match$367_117_273
+A0A287Y046_HORVV	PRINTS	PRINTS	151	166	1.4E-15	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$368_151_166
+A0A287Y046_HORVV	PRINTS	PRINTS	637	653	1.4E-15	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$368_637_653
+A0A287Y046_HORVV	PRINTS	PRINTS	317	331	1.4E-15	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$368_317_331
+A0A287Y046_HORVV	PRINTS	PRINTS	223	237	1.4E-15	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$368_223_237
+A0A287Y046_HORVV	Gene3D	Gene3D	360	457	2.7E-8	+	.	Name=Winged helix-like DNA-binding domain superfamily;Signature=G3DSA:1.10.10.10;InterProScan=IPR036388;ID=match$369_360_457
+A0A3L6PIH5_PANMI	fimo	sequence_motif	189	209	148	+	.	Name=P-loop;Signature=Motif 1;pvalue=1.56e-15;2.3e-11;sequence=SILGPAGVGKSTLAREVYREI
+A0A3L6PIH5_PANMI	fimo	sequence_motif	423	451	118	+	.	Name=RNBS-D;Signature=Motif 2;pvalue=1.5e-12;1.06e-08;sequence=LKTCLLYFSLYPEGYTFLKTDLVKQWTAE
+A0A3L6PIH5_PANMI	fimo	sequence_motif	365	385	69	+	.	Name=GLPL;Signature=Motif 3;pvalue=1.26e-07;0.000876;sequence=CSGLPLATTIIASVFACQPDN
+A0A3L6PIH5_PANMI	fimo	sequence_motif	266	280	84.2	+	.	Name=Kin-2;Signature=Motif 4;pvalue=3.83e-09;3.88e-05;sequence=YFIVIDGLWETTSWD
+A0A3L6PIH5_PANMI	fimo	sequence_motif	291	310	60.6	+	.	Name=RNBS-B;Signature=Motif 5;pvalue=8.66e-07;0.00934;sequence=HCSRVLITTDIEEVALECCD
+A0A3L6PIH5_PANMI	fimo	sequence_motif	212	240	99	+	.	Name=RNBS-A;Signature=Motif 6;pvalue=1.24e-10;1.28e-06;sequence=QFDRRAFVRASRVPDARRLLRSMISQVRR
+A0A3L6PIH5_PANMI	Gene3D	Gene3D	141	313	6.1E-27	+	.	Name=P-loop containing nucleoside triphosphate hydrolase;Signature=G3DSA:3.40.50.300;InterProScan=IPR027417;ID=match$396_141_313
+A0A3L6PIH5_PANMI	Gene3D	Gene3D	330	428	1.1E-8	+	.	Name=Apoptotic protease-activating factors, helical domain;Signature=G3DSA:1.10.8.430;InterProScan=IPR042197;ID=match$397_330_428
+A0A3L6PIH5_PANMI	Gene3D	Gene3D	11	122	5.5E-21	+	.	Name=Rx N-terminal domain;Signature=G3DSA:1.20.5.4130;InterProScan=Not integrated;ID=match$398_11_122
+A0A3L6PIH5_PANMI	Pfam	Pfam	895	932	2.1E-10	+	.	Name=Cleavage site for pathogenic type III effector avirulence factor Avr;Signature=PF05627;InterProScan=IPR008700;ID=match$399_895_932
+A0A3L6PIH5_PANMI	CDD	CDD	9	122	8.92062E-17	+	.	Name=RX-CC_like;Signature=cd14798;InterProScan=IPR038005;ID=match$400_9_122
+A0A3L6PIH5_PANMI	Pfam	Pfam	182	413	2.6E-35	+	.	Name=NB-ARC domain;Signature=PF00931;InterProScan=IPR002182;ID=match$401_182_413
+A0A3L6PIH5_PANMI	Pfam	Pfam	12	88	1.8E-14	+	.	Name=Rx N-terminal domain;Signature=PF18052;InterProScan=IPR041118;ID=match$402_12_88
+A0A3L6PIH5_PANMI	PRINTS	PRINTS	187	202	1.5E-10	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$403_187_202
+A0A3L6PIH5_PANMI	PRINTS	PRINTS	260	274	1.5E-10	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$403_260_274
+A0A3L6PIH5_PANMI	PRINTS	PRINTS	365	379	1.5E-10	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$403_365_379
+A0A3L6PIH5_PANMI	SUPERFAMILY	SUPERFAMILY	152	430	1.12E-46	+	.	Name=P-loop containing nucleoside triphosphate hydrolase;Signature=SSF52540;InterProScan=IPR027417;ID=match$404_152_430
+A0A3L6Q3Z7_PANMI	fimo	sequence_motif	186	206	147	+	.	Name=P-loop;Signature=Motif 1;pvalue=2.14e-15;2.3e-11;sequence=SILGPAGVGKSTLAQEVYREI
+A0A3L6Q3Z7_PANMI	fimo	sequence_motif	433	461	118	+	.	Name=RNBS-D;Signature=Motif 2;pvalue=1.5e-12;1.06e-08;sequence=LKTCLLYFSLYPEGYAFLKTDLVKQWTAE
+A0A3L6Q3Z7_PANMI	fimo	sequence_motif	375	395	74.1	+	.	Name=GLPL;Signature=Motif 3;pvalue=3.91e-08;0.000355;sequence=CSGLPLATTIIASVLACQPDN
+A0A3L6Q3Z7_PANMI	fimo	sequence_motif	263	277	84.2	+	.	Name=Kin-2;Signature=Motif 4;pvalue=3.83e-09;3.88e-05;sequence=YFIVIDGLWETTSWD
+A0A3L6Q3Z7_PANMI	fimo	sequence_motif	209	237	99.5	+	.	Name=RNBS-A;Signature=Motif 6;pvalue=1.12e-10;1.26e-06;sequence=QFERRAFVRASRVPDARRLLRSIISQVRR
+A0A3L6Q3Z7_PANMI	fimo	sequence_motif	472	492	77.5	+	.	Name=linker;Signature=Motif 8;pvalue=1.76e-08;0.000414;sequence=ANEVAECCFDELVSRGLVQSN
+A0A3L6Q3Z7_PANMI	fimo	sequence_motif	340	354	64.3	+	.	Name=RNBS-C;Signature=Motif 10;pvalue=3.68e-07;0.00615;sequence=LSIDDSMDLFFNRVF
+A0A3L6Q3Z7_PANMI	Pfam	Pfam	1109	1143	1.2E-12	+	.	Name=Cleavage site for pathogenic type III effector avirulence factor Avr;Signature=PF05627;InterProScan=IPR008700;ID=match$189_1109_1143
+A0A3L6Q3Z7_PANMI	Gene3D	Gene3D	557	974	1.8E-21	+	.	Name=Leucine-rich repeat domain superfamily;Signature=G3DSA:3.80.10.10;InterProScan=IPR032675;ID=match$190_557_974
+A0A3L6Q3Z7_PANMI	SUPERFAMILY	SUPERFAMILY	148	440	1.03E-43	+	.	Name=P-loop containing nucleoside triphosphate hydrolase;Signature=SSF52540;InterProScan=IPR027417;ID=match$191_148_440
+A0A3L6Q3Z7_PANMI	CDD	CDD	11	118	5.84312E-15	+	.	Name=RX-CC_like;Signature=cd14798;InterProScan=IPR038005;ID=match$192_11_118
+A0A3L6Q3Z7_PANMI	Gene3D	Gene3D	13	118	3.1E-19	+	.	Name=Rx N-terminal domain;Signature=G3DSA:1.20.5.4130;InterProScan=Not integrated;ID=match$193_13_118
+A0A3L6Q3Z7_PANMI	Gene3D	Gene3D	143	310	1.4E-25	+	.	Name=P-loop containing nucleoside triphosphate hydrolase;Signature=G3DSA:3.40.50.300;InterProScan=IPR027417;ID=match$194_143_310
+A0A3L6Q3Z7_PANMI	SUPERFAMILY	SUPERFAMILY	533	889	2.72E-23	+	.	Name=Leucine-rich repeat domain superfamily;Signature=SSF52058;InterProScan=Not integrated;ID=match$195_533_889
+A0A3L6Q3Z7_PANMI	Gene3D	Gene3D	420	517	2.9E-10	+	.	Name=Winged helix-like DNA-binding domain superfamily;Signature=G3DSA:1.10.10.10;InterProScan=IPR036388;ID=match$196_420_517
+A0A3L6Q3Z7_PANMI	PRINTS	PRINTS	695	711	2.0E-12	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$197_695_711
+A0A3L6Q3Z7_PANMI	PRINTS	PRINTS	257	271	2.0E-12	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$197_257_271
+A0A3L6Q3Z7_PANMI	PRINTS	PRINTS	184	199	2.0E-12	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$197_184_199
+A0A3L6Q3Z7_PANMI	PRINTS	PRINTS	375	389	2.0E-12	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$197_375_389
+A0A3L6Q3Z7_PANMI	Pfam	Pfam	14	90	3.2E-12	+	.	Name=Rx N-terminal domain;Signature=PF18052;InterProScan=IPR041118;ID=match$198_14_90
+A0A3L6Q3Z7_PANMI	Pfam	Pfam	334	423	1.3E-10	+	.	Name=NB-ARC domain;Signature=PF00931;InterProScan=IPR002182;ID=match$199_334_423
+A0A3L6Q3Z7_PANMI	Pfam	Pfam	182	304	3.2E-21	+	.	Name=NB-ARC domain;Signature=PF00931;InterProScan=IPR002182;ID=match$199_182_304
+A0A453GTZ9_AEGTS	fimo	sequence_motif	196	216	134	+	.	Name=P-loop;Signature=Motif 1;pvalue=3.86e-14;3.5e-10;sequence=PIVGEGGIGKTTLAQKLWSKL
+A0A453GTZ9_AEGTS	fimo	sequence_motif	417	445	127	+	.	Name=RNBS-D;Signature=Motif 2;pvalue=1.91e-13;1.54e-09;sequence=LKTCMLYLSTYSEGCLFLKSDLVKQWVAE
+A0A453GTZ9_AEGTS	fimo	sequence_motif	361	381	93.4	+	.	Name=GLPL;Signature=Motif 3;pvalue=4.51e-10;1.77e-05;sequence=CGGLPLAIIIAASLLAIQPEK
+A0A453GTZ9_AEGTS	fimo	sequence_motif	272	286	86.7	+	.	Name=Kin-2;Signature=Motif 4;pvalue=2.12e-09;2.77e-05;sequence=YFIIIDDLWAISVWD
+A0A453GTZ9_AEGTS	fimo	sequence_motif	297	316	79.7	+	.	Name=RNBS-B;Signature=Motif 5;pvalue=1.07e-08;0.000179;sequence=CCSRIVTTTETMEVALACCG
+A0A453GTZ9_AEGTS	fimo	sequence_motif	219	247	101	+	.	Name=RNBS-A;Signature=Motif 6;pvalue=8.63e-11;1.09e-06;sequence=QFECRAFVRTAQKPDMRGIIRSILSQVRR
+A0A453GTZ9_AEGTS	fimo	sequence_motif	487	507	73.8	+	.	Name=MHD;Signature=Motif 7;pvalue=4.14e-08;0.000349;sequence=YSVHHMVLDLITYKSIEENFI
+A0A453GTZ9_AEGTS	fimo	sequence_motif	456	476	87.2	+	.	Name=linker;Signature=Motif 8;pvalue=1.9e-09;5.6e-05;sequence=MEEVAGSYFDKLVSAGLIQAM
+A0A453GTZ9_AEGTS	SUPERFAMILY	SUPERFAMILY	158	424	2.93E-48	+	.	Name=P-loop containing nucleoside triphosphate hydrolase;Signature=SSF52540;InterProScan=IPR027417;ID=match$309_158_424
+A0A453GTZ9_AEGTS	Gene3D	Gene3D	404	501	1.7E-7	+	.	Name=Winged helix-like DNA-binding domain superfamily;Signature=G3DSA:1.10.10.10;InterProScan=IPR036388;ID=match$310_404_501
+A0A453GTZ9_AEGTS	CDD	CDD	9	137	4.61499E-11	+	.	Name=RX-CC_like;Signature=cd14798;InterProScan=IPR038005;ID=match$311_9_137
+A0A453GTZ9_AEGTS	Pfam	Pfam	176	417	4.6E-32	+	.	Name=NB-ARC domain;Signature=PF00931;InterProScan=IPR002182;ID=match$312_176_417
+A0A453GTZ9_AEGTS	Pfam	Pfam	1201	1235	1.3E-12	+	.	Name=Cleavage site for pathogenic type III effector avirulence factor Avr;Signature=PF05627;InterProScan=IPR008700;ID=match$313_1201_1235
+A0A453GTZ9_AEGTS	Pfam	Pfam	12	95	4.6E-12	+	.	Name=Rx N-terminal domain;Signature=PF18052;InterProScan=IPR041118;ID=match$314_12_95
+A0A453GTZ9_AEGTS	PRINTS	PRINTS	681	697	1.0E-15	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$315_681_697
+A0A453GTZ9_AEGTS	PRINTS	PRINTS	194	209	1.0E-15	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$315_194_209
+A0A453GTZ9_AEGTS	PRINTS	PRINTS	266	280	1.0E-15	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$315_266_280
+A0A453GTZ9_AEGTS	PRINTS	PRINTS	361	375	1.0E-15	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$315_361_375
+A0A453GTZ9_AEGTS	Gene3D	Gene3D	158	316	5.4E-28	+	.	Name=P-loop containing nucleoside triphosphate hydrolase;Signature=G3DSA:3.40.50.300;InterProScan=IPR027417;ID=match$316_158_316
+A0A453GTZ9_AEGTS	Gene3D	Gene3D	509	878	1.3E-21	+	.	Name=Leucine-rich repeat domain superfamily;Signature=G3DSA:3.80.10.10;InterProScan=IPR032675;ID=match$317_509_878
+A0A453GTZ9_AEGTS	SUPERFAMILY	SUPERFAMILY	489	872	1.05E-23	+	.	Name=Leucine-rich repeat domain superfamily;Signature=SSF52058;InterProScan=Not integrated;ID=match$318_489_872
+A0A453GTZ9_AEGTS	Gene3D	Gene3D	11	117	3.5E-15	+	.	Name=Rx N-terminal domain;Signature=G3DSA:1.20.5.4130;InterProScan=Not integrated;ID=match$319_11_117
+A0A453GU18_AEGTS	fimo	sequence_motif	10	38	127	+	.	Name=RNBS-D;Signature=Motif 2;pvalue=1.91e-13;1.54e-09;sequence=LKTCMLYLSTYSEGCLFLKSDLVKQWVAE
+A0A453GU18_AEGTS	fimo	sequence_motif	80	100	73.8	+	.	Name=MHD;Signature=Motif 7;pvalue=4.14e-08;0.000349;sequence=YSVHHMVLDLITYKSIEENFI
+A0A453GU18_AEGTS	fimo	sequence_motif	49	69	87.2	+	.	Name=linker;Signature=Motif 8;pvalue=1.9e-09;5.6e-05;sequence=MEEVAGSYFDKLVSAGLIQAM
+A0A453GU18_AEGTS	Gene3D	Gene3D	1	94	6.3E-7	+	.	Name=Winged helix-like DNA-binding domain superfamily;Signature=G3DSA:1.10.10.10;InterProScan=IPR036388;ID=match$580_1_94
+A0A453GU18_AEGTS	Gene3D	Gene3D	101	471	5.2E-22	+	.	Name=Leucine-rich repeat domain superfamily;Signature=G3DSA:3.80.10.10;InterProScan=IPR032675;ID=match$581_101_471
+A0A453GU18_AEGTS	SUPERFAMILY	SUPERFAMILY	82	465	4.08E-24	+	.	Name=Leucine-rich repeat domain superfamily;Signature=SSF52058;InterProScan=Not integrated;ID=match$582_82_465
+A0A453GU37_AEGTS	fimo	sequence_motif	196	216	134	+	.	Name=P-loop;Signature=Motif 1;pvalue=3.86e-14;3.5e-10;sequence=PIVGEGGIGKTTLAQKLWSKL
+A0A453GU37_AEGTS	fimo	sequence_motif	417	445	127	+	.	Name=RNBS-D;Signature=Motif 2;pvalue=1.91e-13;1.54e-09;sequence=LKTCMLYLSTYSEGCLFLKSDLVKQWVAE
+A0A453GU37_AEGTS	fimo	sequence_motif	361	381	93.4	+	.	Name=GLPL;Signature=Motif 3;pvalue=4.51e-10;1.77e-05;sequence=CGGLPLAIIIAASLLAIQPEK
+A0A453GU37_AEGTS	fimo	sequence_motif	272	286	86.7	+	.	Name=Kin-2;Signature=Motif 4;pvalue=2.12e-09;2.77e-05;sequence=YFIIIDDLWAISVWD
+A0A453GU37_AEGTS	fimo	sequence_motif	297	316	79.7	+	.	Name=RNBS-B;Signature=Motif 5;pvalue=1.07e-08;0.000179;sequence=CCSRIVTTTETMEVALACCG
+A0A453GU37_AEGTS	fimo	sequence_motif	219	247	101	+	.	Name=RNBS-A;Signature=Motif 6;pvalue=8.63e-11;1.09e-06;sequence=QFECRAFVRTAQKPDMRGIIRSILSQVRR
+A0A453GU37_AEGTS	fimo	sequence_motif	487	507	73.8	+	.	Name=MHD;Signature=Motif 7;pvalue=4.14e-08;0.000349;sequence=YSVHHMVLDLITYKSIEENFI
+A0A453GU37_AEGTS	fimo	sequence_motif	456	476	87.2	+	.	Name=linker;Signature=Motif 8;pvalue=1.9e-09;5.6e-05;sequence=MEEVAGSYFDKLVSAGLIQAM
+A0A453GU37_AEGTS	Pfam	Pfam	176	417	4.7E-32	+	.	Name=NB-ARC domain;Signature=PF00931;InterProScan=IPR002182;ID=match$660_176_417
+A0A453GU37_AEGTS	Pfam	Pfam	12	95	4.6E-12	+	.	Name=Rx N-terminal domain;Signature=PF18052;InterProScan=IPR041118;ID=match$661_12_95
+A0A453GU37_AEGTS	Pfam	Pfam	1204	1238	1.3E-12	+	.	Name=Cleavage site for pathogenic type III effector avirulence factor Avr;Signature=PF05627;InterProScan=IPR008700;ID=match$662_1204_1238
+A0A453GU37_AEGTS	PRINTS	PRINTS	681	697	1.1E-15	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$663_681_697
+A0A453GU37_AEGTS	PRINTS	PRINTS	194	209	1.1E-15	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$663_194_209
+A0A453GU37_AEGTS	PRINTS	PRINTS	361	375	1.1E-15	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$663_361_375
+A0A453GU37_AEGTS	PRINTS	PRINTS	266	280	1.1E-15	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$663_266_280
+A0A453GU37_AEGTS	Gene3D	Gene3D	404	501	1.7E-7	+	.	Name=Winged helix-like DNA-binding domain superfamily;Signature=G3DSA:1.10.10.10;InterProScan=IPR036388;ID=match$664_404_501
+A0A453GU37_AEGTS	CDD	CDD	9	137	4.9513E-11	+	.	Name=RX-CC_like;Signature=cd14798;InterProScan=IPR038005;ID=match$665_9_137
+A0A453GU37_AEGTS	SUPERFAMILY	SUPERFAMILY	158	424	2.98E-48	+	.	Name=P-loop containing nucleoside triphosphate hydrolase;Signature=SSF52540;InterProScan=IPR027417;ID=match$666_158_424
+A0A453GU37_AEGTS	Gene3D	Gene3D	11	117	3.6E-15	+	.	Name=Rx N-terminal domain;Signature=G3DSA:1.20.5.4130;InterProScan=Not integrated;ID=match$667_11_117
+A0A453GU37_AEGTS	Gene3D	Gene3D	158	316	5.4E-28	+	.	Name=P-loop containing nucleoside triphosphate hydrolase;Signature=G3DSA:3.40.50.300;InterProScan=IPR027417;ID=match$668_158_316
+A0A453GU37_AEGTS	Gene3D	Gene3D	509	878	1.3E-21	+	.	Name=Leucine-rich repeat domain superfamily;Signature=G3DSA:3.80.10.10;InterProScan=IPR032675;ID=match$669_509_878
+A0A453GU37_AEGTS	SUPERFAMILY	SUPERFAMILY	489	872	1.05E-23	+	.	Name=Leucine-rich repeat domain superfamily;Signature=SSF52058;InterProScan=Not integrated;ID=match$670_489_872
+A0A6G1CAD2_9ORYZ	fimo	sequence_motif	171	191	152	+	.	Name=P-loop;Signature=Motif 1;pvalue=6.17e-16;2.3e-11;sequence=SILGCGGIGKTALAKQVFREL
+A0A6G1CAD2_9ORYZ	fimo	sequence_motif	400	428	118	+	.	Name=RNBS-D;Signature=Motif 2;pvalue=1.62e-12;1.08e-08;sequence=LKTCLQYLTMYPEGCIICKADLVKQWAAE
+A0A6G1CAD2_9ORYZ	fimo	sequence_motif	340	360	79.5	+	.	Name=GLPL;Signature=Motif 3;pvalue=1.12e-08;0.00011;sequence=CGGLPLGIINIARLLASEMDN
+A0A6G1CAD2_9ORYZ	fimo	sequence_motif	249	263	110	+	.	Name=Kin-2;Signature=Motif 4;pvalue=8.97e-12;3.64e-07;sequence=YFIVIDDLWETTSWD
+A0A6G1CAD2_9ORYZ	fimo	sequence_motif	274	293	65.3	+	.	Name=RNBS-B;Signature=Motif 5;pvalue=2.94e-07;0.00348;sequence=DCSRILMTTAIEDIALECCD
+A0A6G1CAD2_9ORYZ	fimo	sequence_motif	194	222	94.5	+	.	Name=RNBS-A;Signature=Motif 6;pvalue=3.5e-10;3.3e-06;sequence=RFECRAFVQASRMPDTKRLLRSMLSQVRR
+A0A6G1CAD2_9ORYZ	fimo	sequence_motif	470	490	67.4	+	.	Name=MHD;Signature=Motif 7;pvalue=1.81e-07;0.00143;sequence=CTVHHMVFDVIKDMSVEENFT
+A0A6G1CAD2_9ORYZ	fimo	sequence_motif	439	459	66	+	.	Name=linker;Signature=Motif 8;pvalue=2.48e-07;0.00225;sequence=ANAVADSYFDELVSKGMVQPN
+A0A6G1CAD2_9ORYZ	fimo	sequence_motif	14	49	107	+	.	Name=CC;Signature=Motif 17;pvalue=1.85e-11;1.01e-06;sequence=SLLRKLHDLLAPESQLIKPLKDGIDLLKQDLERVHA
+A0A6G1CAD2_9ORYZ	Pfam	Pfam	149	394	1.8E-43	+	.	Name=NB-ARC domain;Signature=PF00931;InterProScan=IPR002182;ID=match$113_149_394
+A0A6G1CAD2_9ORYZ	Gene3D	Gene3D	393	484	2.1E-10	+	.	Name=Winged helix-like DNA-binding domain superfamily;Signature=G3DSA:1.10.10.10;InterProScan=IPR036388;ID=match$114_393_484
+A0A6G1CAD2_9ORYZ	CDD	CDD	8	82	3.88983E-11	+	.	Name=RX-CC_like;Signature=cd14798;InterProScan=IPR038005;ID=match$115_8_82
+A0A6G1CAD2_9ORYZ	Gene3D	Gene3D	10	120	2.5E-17	+	.	Name=Rx N-terminal domain;Signature=G3DSA:1.20.5.4130;InterProScan=Not integrated;ID=match$116_10_120
+A0A6G1CAD2_9ORYZ	Pfam	Pfam	1000	1035	3.2E-14	+	.	Name=Cleavage site for pathogenic type III effector avirulence factor Avr;Signature=PF05627;InterProScan=IPR008700;ID=match$117_1000_1035
+A0A6G1CAD2_9ORYZ	Gene3D	Gene3D	305	392	1.5E-10	+	.	Name=Apoptotic protease-activating factors, helical domain;Signature=G3DSA:1.10.8.430;InterProScan=IPR042197;ID=match$118_305_392
+A0A6G1CAD2_9ORYZ	SUPERFAMILY	SUPERFAMILY	127	407	4.4E-49	+	.	Name=P-loop containing nucleoside triphosphate hydrolase;Signature=SSF52540;InterProScan=IPR027417;ID=match$119_127_407
+A0A6G1CAD2_9ORYZ	Gene3D	Gene3D	127	295	1.3E-26	+	.	Name=P-loop containing nucleoside triphosphate hydrolase;Signature=G3DSA:3.40.50.300;InterProScan=IPR027417;ID=match$120_127_295
+A0A6G1CAD2_9ORYZ	Gene3D	Gene3D	496	658	6.6E-11	+	.	Name=Leucine-rich repeat domain superfamily;Signature=G3DSA:3.80.10.10;InterProScan=IPR032675;ID=match$121_496_658
+A0A6G1CAD2_9ORYZ	Gene3D	Gene3D	659	854	1.2E-7	+	.	Name=Leucine-rich repeat domain superfamily;Signature=G3DSA:3.80.10.10;InterProScan=IPR032675;ID=match$121_659_854
+A0A6G1CAD2_9ORYZ	Pfam	Pfam	12	87	2.0E-14	+	.	Name=Rx N-terminal domain;Signature=PF18052;InterProScan=IPR041118;ID=match$122_12_87
+A0A6G1CAD2_9ORYZ	PRINTS	PRINTS	640	656	7.1E-14	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$123_640_656
+A0A6G1CAD2_9ORYZ	PRINTS	PRINTS	243	257	7.1E-14	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$123_243_257
+A0A6G1CAD2_9ORYZ	PRINTS	PRINTS	340	354	7.1E-14	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$123_340_354
+A0A6G1CAD2_9ORYZ	PRINTS	PRINTS	169	184	7.1E-14	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$123_169_184
+A0A6G1CAD2_9ORYZ	SUPERFAMILY	SUPERFAMILY	472	852	2.99E-24	+	.	Name=Leucine-rich repeat domain superfamily;Signature=SSF52058;InterProScan=Not integrated;ID=match$124_472_852
+M0YWH3_HORVV	fimo	sequence_motif	197	217	147	+	.	Name=P-loop;Signature=Motif 1;pvalue=1.99e-15;2.3e-11;sequence=PIVGVGGIGKTTLAQKLWSKL
+M0YWH3_HORVV	fimo	sequence_motif	417	445	149	+	.	Name=RNBS-D;Signature=Motif 2;pvalue=1.33e-15;1.67e-11;sequence=LKTCLLYLSTYPEGCLFLKGDLVKQWVAE
+M0YWH3_HORVV	fimo	sequence_motif	361	381	83.5	+	.	Name=GLPL;Signature=Motif 3;pvalue=4.44e-09;5.24e-05;sequence=CGGLPLAIIVAASLLTIQPDK
+M0YWH3_HORVV	fimo	sequence_motif	273	287	86.4	+	.	Name=Kin-2;Signature=Motif 4;pvalue=2.28e-09;2.77e-05;sequence=YFIIIDDLWAISLWD
+M0YWH3_HORVV	fimo	sequence_motif	298	317	79.2	+	.	Name=RNBS-B;Signature=Motif 5;pvalue=1.21e-08;0.000179;sequence=CGSRIVTITETMEVALACCG
+M0YWH3_HORVV	fimo	sequence_motif	220	248	110	+	.	Name=RNBS-A;Signature=Motif 6;pvalue=1.05e-11;1.77e-07;sequence=QFECRAFVRTAQKPDMRGIIRSILSQARP
+M0YWH3_HORVV	fimo	sequence_motif	487	507	73.8	+	.	Name=MHD;Signature=Motif 7;pvalue=4.14e-08;0.000349;sequence=YSVHHMVLDLITYKSIEENFI
+M0YWH3_HORVV	fimo	sequence_motif	456	476	74.1	+	.	Name=linker;Signature=Motif 8;pvalue=3.86e-08;0.000414;sequence=MEEVAGSYFGKLVSAGLIQAM
+M0YWH3_HORVV	fimo	sequence_motif	329	343	63	+	.	Name=RNBS-C;Signature=Motif 10;pvalue=5.05e-07;0.00615;sequence=LGEDDSEKLLLQRIL
+M0YWH3_HORVV	Gene3D	Gene3D	509	878	4.1E-20	+	.	Name=Leucine-rich repeat domain superfamily;Signature=G3DSA:3.80.10.10;InterProScan=IPR032675;ID=match$269_509_878
+M0YWH3_HORVV	Pfam	Pfam	177	417	9.1E-31	+	.	Name=NB-ARC domain;Signature=PF00931;InterProScan=IPR002182;ID=match$270_177_417
+M0YWH3_HORVV	CDD	CDD	9	139	6.57821E-13	+	.	Name=RX-CC_like;Signature=cd14798;InterProScan=IPR038005;ID=match$271_9_139
+M0YWH3_HORVV	Pfam	Pfam	1169	1202	2.9E-15	+	.	Name=Cleavage site for pathogenic type III effector avirulence factor Avr;Signature=PF05627;InterProScan=IPR008700;ID=match$272_1169_1202
+M0YWH3_HORVV	Gene3D	Gene3D	161	317	1.6E-27	+	.	Name=P-loop containing nucleoside triphosphate hydrolase;Signature=G3DSA:3.40.50.300;InterProScan=IPR027417;ID=match$273_161_317
+M0YWH3_HORVV	PRINTS	PRINTS	267	281	1.6E-15	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$274_267_281
+M0YWH3_HORVV	PRINTS	PRINTS	681	697	1.6E-15	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$274_681_697
+M0YWH3_HORVV	PRINTS	PRINTS	361	375	1.6E-15	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$274_361_375
+M0YWH3_HORVV	PRINTS	PRINTS	195	210	1.6E-15	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$274_195_210
+M0YWH3_HORVV	Gene3D	Gene3D	11	124	6.8E-16	+	.	Name=Rx N-terminal domain;Signature=G3DSA:1.20.5.4130;InterProScan=Not integrated;ID=match$275_11_124
+M0YWH3_HORVV	SUPERFAMILY	SUPERFAMILY	489	859	2.21E-21	+	.	Name=Leucine-rich repeat domain superfamily;Signature=SSF52058;InterProScan=Not integrated;ID=match$276_489_859
+M0YWH3_HORVV	Pfam	Pfam	12	96	4.6E-14	+	.	Name=Rx N-terminal domain;Signature=PF18052;InterProScan=IPR041118;ID=match$277_12_96
+M0YWH3_HORVV	Gene3D	Gene3D	404	501	2.9E-8	+	.	Name=Winged helix-like DNA-binding domain superfamily;Signature=G3DSA:1.10.10.10;InterProScan=IPR036388;ID=match$278_404_501
+M0YWH3_HORVV	SUPERFAMILY	SUPERFAMILY	163	424	1.49E-46	+	.	Name=P-loop containing nucleoside triphosphate hydrolase;Signature=SSF52540;InterProScan=IPR027417;ID=match$279_163_424
+Pii-2	fimo	sequence_motif	186	206	123	+	.	Name=P-loop;Signature=Motif 1;pvalue=4.77e-13;3.52e-09;sequence=PIVGLAGLGKTAVAKLIFHEQ
+Pii-2	fimo	sequence_motif	415	443	151	+	.	Name=RNBS-D;Signature=Motif 2;pvalue=8.42e-16;1.67e-11;sequence=LKSCFAYLSTIPKGTIIDREKLIEQWIAL
+Pii-2	fimo	sequence_motif	357	377	69.6	+	.	Name=GLPL;Signature=Motif 3;pvalue=1.09e-07;0.000802;sequence=CEGIPAVAYSLGSLVRNKNKE
+Pii-2	fimo	sequence_motif	211	239	64	+	.	Name=RNBS-A;Signature=Motif 6;pvalue=4.01e-07;0.00284;sequence=NFDQRIWVHLDKKLDLNKIANSIISQVNQ
+Pii-2	fimo	sequence_motif	492	512	77.4	+	.	Name=MHD;Signature=Motif 7;pvalue=1.8e-08;0.000349;sequence=LRIHNLVHDFAMYVARDDLII
+Pii-2	SUPERFAMILY	SUPERFAMILY	155	422	5.83E-49	+	.	Name=P-loop containing nucleoside triphosphate hydrolase;Signature=SSF52540;InterProScan=IPR027417;ID=match$524_155_422
+Pii-2	Pfam	Pfam	164	379	3.5E-31	+	.	Name=NB-ARC domain;Signature=PF00931;InterProScan=IPR002182;ID=match$525_164_379
+Pii-2	Gene3D	Gene3D	404	504	5.5E-6	+	.	Name=Winged helix-like DNA-binding domain superfamily;Signature=G3DSA:1.10.10.10;InterProScan=IPR036388;ID=match$526_404_504
+Pii-2	Gene3D	Gene3D	323	388	1.5E-6	+	.	Name=Apoptotic protease-activating factors, helical domain;Signature=G3DSA:1.10.8.430;InterProScan=IPR042197;ID=match$527_323_388
+Pii-2	Gene3D	Gene3D	6	118	7.7E-9	+	.	Name=Rx N-terminal domain;Signature=G3DSA:1.20.5.4130;InterProScan=Not integrated;ID=match$529_6_118
+Pii-2	Pfam	Pfam	5	88	7.1E-11	+	.	Name=Rx N-terminal domain;Signature=PF18052;InterProScan=IPR041118;ID=match$531_5_88
+Pii-2	SUPERFAMILY	SUPERFAMILY	546	789	1.8E-45	+	.	Name=RNI-like domain superfamily;Signature=SSF52047;InterProScan=Not integrated;ID=match$532_546_789
+Pii-2	PRINTS	PRINTS	686	702	8.1E-12	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$533_686_702
+Pii-2	PRINTS	PRINTS	184	199	8.1E-12	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$533_184_199
+Pii-2	PRINTS	PRINTS	262	276	8.1E-12	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$533_262_276
+Pii-2	PRINTS	PRINTS	357	371	8.1E-12	+	.	Name=Disease resistance protein signature;Signature=PR00364;InterProScan=Not integrated;ID=match$533_357_371
+Pii-2	Gene3D	Gene3D	535	790	7.8E-54	+	.	Name=Leucine-rich repeat domain superfamily;Signature=G3DSA:3.80.10.10;InterProScan=IPR032675;ID=match$534_535_790
+Pii-2	Gene3D	Gene3D	139	314	2.7E-25	+	.	Name=P-loop containing nucleoside triphosphate hydrolase;Signature=G3DSA:3.40.50.300;InterProScan=IPR027417;ID=match$536_139_314
+A0A0D3GFF5_9ORYZ	NLRtracker	Region	269	642	.	+	.	Name=NB-ARC;region_name=NB-ARC;note=NB-ARC domain;db_xref=CDD:279299;NCBI Feature Key=Region
+A0A0D9XCJ7_9ORYZ	NLRtracker	Region	259	625	.	+	.	Name=NB-ARC;region_name=NB-ARC;note=NB-ARC domain;db_xref=CDD:279299;NCBI Feature Key=Region
+A0A0D9XCJ8_9ORYZ	NLRtracker	Region	259	625	.	+	.	Name=NB-ARC;region_name=NB-ARC;note=NB-ARC domain;db_xref=CDD:279299;NCBI Feature Key=Region
+A0A0E0IZU7_ORYNI	NLRtracker	Region	130	487	.	+	.	Name=NB-ARC;region_name=NB-ARC;note=NB-ARC domain;db_xref=CDD:279299;NCBI Feature Key=Region
+A0A0E0LZX0_ORYPU	NLRtracker	Region	107	471	.	+	.	Name=NB-ARC;region_name=NB-ARC;note=NB-ARC domain;db_xref=CDD:279299;NCBI Feature Key=Region
+A0A287XZT2_HORVV	NLRtracker	Region	161	507	.	+	.	Name=NB-ARC;region_name=NB-ARC;note=NB-ARC domain;db_xref=CDD:279299;NCBI Feature Key=Region
+A0A287XZY9_HORVV	NLRtracker	Region	67	413	.	+	.	Name=NB-ARC;region_name=NB-ARC;note=NB-ARC domain;db_xref=CDD:279299;NCBI Feature Key=Region
+A0A287Y020_HORVV	NLRtracker	Region	208	554	.	+	.	Name=NB-ARC;region_name=NB-ARC;note=NB-ARC domain;db_xref=CDD:279299;NCBI Feature Key=Region
+A0A287Y046_HORVV	NLRtracker	Region	117	463	.	+	.	Name=NB-ARC;region_name=NB-ARC;note=NB-ARC domain;db_xref=CDD:279299;NCBI Feature Key=Region
+A0A3L6PIH5_PANMI	NLRtracker	Region	141	451	.	+	.	Name=NB-ARC;region_name=NB-ARC;note=NB-ARC domain;db_xref=CDD:279299;NCBI Feature Key=Region
+A0A3L6Q3Z7_PANMI	NLRtracker	Region	143	517	.	+	.	Name=NB-ARC;region_name=NB-ARC;note=NB-ARC domain;db_xref=CDD:279299;NCBI Feature Key=Region
+A0A453GTZ9_AEGTS	NLRtracker	Region	158	507	.	+	.	Name=NB-ARC;region_name=NB-ARC;note=NB-ARC domain;db_xref=CDD:279299;NCBI Feature Key=Region
+A0A453GU37_AEGTS	NLRtracker	Region	158	507	.	+	.	Name=NB-ARC;region_name=NB-ARC;note=NB-ARC domain;db_xref=CDD:279299;NCBI Feature Key=Region
+A0A6G1CAD2_9ORYZ	NLRtracker	Region	127	490	.	+	.	Name=NB-ARC;region_name=NB-ARC;note=NB-ARC domain;db_xref=CDD:279299;NCBI Feature Key=Region
+M0YWH3_HORVV	NLRtracker	Region	161	507	.	+	.	Name=NB-ARC;region_name=NB-ARC;note=NB-ARC domain;db_xref=CDD:279299;NCBI Feature Key=Region
+Pii-2	NLRtracker	Region	139	512	.	+	.	Name=NB-ARC;region_name=NB-ARC;note=NB-ARC domain;db_xref=CDD:279299;NCBI Feature Key=Region
