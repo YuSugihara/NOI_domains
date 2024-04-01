@@ -66,7 +66,7 @@ esl-reformat afa Poaceae_NOIs.fasta.hmmsearch_alin.stockholm \
 - Input Stockholm ([STOCKHOLM](https://github.com/YuSugihara/NOI_domains/blob/main/30_iqtree/Poaceae_NOIs.fasta.hmmsearch_alin.stockholm))
 - Output FASTA ([FASTA](https://github.com/YuSugihara/NOI_domains/blob/main/30_iqtree/Poaceae_NOIs.fasta.hmmsearch_alin.fasta))
 
-Sequences containing both the PxFGxW and Y/FTxxF motif regions without any gaps were retained for phylogenetic analysis. Then, [IQ-TREE](http://www.iqtree.org) ([Minh et al., 2020](https://doi.org/10.1093/molbev/msaa015)) was used to reconstruct phylogenetic tree.
+Sequences containing NOI motifs without any gaps were retained for phylogenetic analysis. Then, [IQ-TREE](http://www.iqtree.org) ([Minh et al., 2020](https://doi.org/10.1093/molbev/msaa015)) was used to reconstruct phylogenetic tree.
 
 ```bash
 iqtree -s Poaceae_NOIs.fasta.hmmsearch_alin.with_motif_regions.fasta \
