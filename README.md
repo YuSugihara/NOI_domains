@@ -83,7 +83,7 @@ The resulting files are [here](https://github.com/YuSugihara/NOI_domains/tree/ma
 
 ## 4. BLASTP search of Pii-2 against RIN4 sequences
 
-We used [BLASTP](https://blast.ncbi.nlm.nih.gov/Blast.cgi) search to confirm the results of the phylogenetic analysis. First, we extracted RIN4 proteins carrying two NOI domains from the Poaceae NOI protein dataset collected by hmmsearch. Then, we filtered out the RIN4 proteins shorter than 175 amino acids or longer than 400 amino acids. 
+We used [BLASTP](https://blast.ncbi.nlm.nih.gov/Blast.cgi) search to confirm the results of the phylogenetic analysis. First, we extracted RIN4-like proteins carrying two NOI domains from the Poaceae NOI protein dataset collected by hmmsearch. Then, we filtered out the RIN4-like proteins shorter than 175 amino acids or longer than 400 amino acids. 
 
 - Input FASTA ([FASTA](https://github.com/YuSugihara/NOI_domains/blob/main/40_blastp/Poaceae_RIN4s_max400min175.fasta))
 - Output BLASTP result ([TXT](https://github.com/YuSugihara/NOI_domains/blob/main/40_blastp/Poaceae_RIN4s_max400min175.blast_result.txt))
