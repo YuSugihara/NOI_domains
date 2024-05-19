@@ -7,7 +7,6 @@ Datasets and scripts used in Fujisaki et al. (2023)
 1. [hmmsearch against Poaceae proteomes](https://github.com/YuSugihara/NOI_domains/tree/main#1-hmmsearch-against-poaceae-proteomes)
 2. [NLRtracker to annotate NLR proteins](https://github.com/YuSugihara/NOI_domains/tree/main#2-nlrtracker-to-annotate-nlr-proteins)
 3. [Phylogenetic analysis using IQ-TREE](https://github.com/YuSugihara/NOI_domains/tree/main#3-phylogenetic-analysis-using-iq-tree)
-4. [BLASTP search of Pii-2 against RIN4 sequences](https://github.com/YuSugihara/NOI_domains/tree/main#4-blastp-search-of-pii-2-against-rin4-sequences)
 
 ## 1. hmmsearch against Poaceae proteomes
 
@@ -81,9 +80,3 @@ The resulting files are [here](https://github.com/YuSugihara/NOI_domains/tree/ma
 - Input FASTA ([FASTA](https://github.com/YuSugihara/NOI_domains/blob/main/30_iqtree/Poaceae_NOIs.fasta.hmmsearch_alin.with_motif_regions.fasta))
 - Output tree ([NEWICK](https://github.com/YuSugihara/NOI_domains/blob/main/30_iqtree/Poaceae_NOIs.fasta.hmmsearch_alin.with_motif_regions.fasta.treefile))
 
-## 4. BLASTP search of Pii-2 against RIN4 sequences
-
-We used [BLASTP](https://blast.ncbi.nlm.nih.gov/Blast.cgi) search to confirm the results of the phylogenetic analysis. First, we extracted RIN4-like proteins carrying two NOI domains from the Poaceae NOI protein dataset collected by hmmsearch. Then, we filtered out the RIN4-like proteins shorter than 175 amino acids or longer than 400 amino acids. 
-
-- Input FASTA ([FASTA](https://github.com/YuSugihara/NOI_domains/blob/main/40_blastp/Poaceae_RIN4s_max400min175.fasta))
-- Output BLASTP result ([TXT](https://github.com/YuSugihara/NOI_domains/blob/main/40_blastp/Poaceae_RIN4s_max400min175.blast_result.txt))
